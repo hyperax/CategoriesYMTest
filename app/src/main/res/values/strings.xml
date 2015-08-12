@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Categories</string>
+    <string name="about">About</string>
+    <string name="no_data">No data</string>
+    <string name="about_content">Developed by Kharchenko Artur \nContacts: \nhyperax@gmail.com \nhyperax@skype</string>
+    <string name="update">Update</string>
+    <string name="updating">Updating</string>
+    <string name="updating_in_progress">Updating in progress. Please wait.</string>
+    <string name="update_completed_successfully">The update completed successfully</string>
+    <string name="update_error">Update error: %1$s</string>
+    <string name="error_processing">Error processing</string>
+</resources>

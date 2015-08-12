@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Категории</string>
+    <string name="about">О программе</string>
+    <string name="no_data">Нет данных</string>
+    <string name="about_content">Разработал: Харченко Артур \nКонтакты: \nhyperax@gmail.com \nhyperax@skype</string>
+    <string name="update">Обновить</string>
+    <string name="updating">Обновление</string>
+    <string name="updating_in_progress">Выполняется обновление. Пожалуйста, подождите.</string>
+    <string name="update_completed_successfully">Обновление успешно завершено.</string>
+    <string name="update_error">Ошибка обновления: %1$s</string>
+    <string name="error_processing">Ошибка обработки результата</string>
+</resources>
